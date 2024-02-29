@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Module name="industrial" id="8f3e90d1-2511-4b46-b80c-42f6f8c44e4d" version="0.0.0">
+    <ConfigRoot path="config/module.py"/>
+</Module>
