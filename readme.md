@@ -49,8 +49,7 @@ Profinet is an industry-standard for automation technology, offering advanced fe
 
 |        Family       | Repository              |
 |:-------------------:|-------------------------|
-| PIC32MX             | [profinet_apps_pic32mx](link)     |
-| PIC32MZEF/PIC32MZDA | [profinet_apps_pic32mz](link)     |
+| LAN9662 | [profinet_apps_lan9662](link)     |
 
 ### EtherNet/IP
 <a href="https://github.com/rtlabs-com/p-net"> <img src="https://rt-labs.com/wp-content/uploads/ethernet-ip-vector-logo-thin-1.svg" alt="Profinet" style="width:150px;"/> </a>   
